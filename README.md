@@ -1,2 +1,2 @@
 # myrepogci
-A test repository for learning GitHub for task of GCI
+A test repository for learning GitHub 
